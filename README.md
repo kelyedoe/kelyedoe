@@ -1,10 +1,8 @@
 ### Salut👋, je me nomme junior édoé agbodjan 
 
 <!--
-**kelyedoe/kelyedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
--  
+-->
+## ⏫ Projets:
+- ⚡ Avant Novembre 2022 ... en cours de mise a jour.
+## 🏫 Education:
+- 2022 - 2023 : L3 Méthodes informatiques Appliquées à la Gestion d'Entreprise en FRANCE.
+- 2018 - 2021 : Bachelor Computer Apllication (Génie Logiciel) en INDE.
+- 2014 - 2017 : BAC partie 2 | BAC partie 1 | Bourse National d'Etude. TOGO
+
 ## Centres d'interets:
 📚 **Lectures:**
 
