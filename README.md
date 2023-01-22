@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⏫ Projets:
-- ⚡ Avant Novembre 2022 ... en cours de mise a jour.
+- ⚡ Jan 2023: 
+    **KELYQUICK** : KelyQuick c'est mon blog et portfolio. Sur ce blog, j'écris des articles sur le framework LARAVEL. Je continue de maintenir le site et créer des contenus. **Lien du projet** : https://kelyedoe.github.io/
 ## 🏫 Education:
 - 2022 - 2023 : L3 Méthodes informatiques Appliquées à la Gestion d'Entreprise en FRANCE.
 - 2018 - 2021 : Bachelor Computer Apllication (Génie Logiciel) en INDE.
