@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Jan 2023: 
     **KELYQUICK** : KelyQuick c'est mon blog et portfolio. Sur ce blog, j'écris des articles sur le framework LARAVEL. Je continue de maintenir le site et créer des contenus. **Lien du projet** : https://kelyedoe.github.io/ .
     >Le développement est toujours en cours. Techs utilisées: 
-    >Front End: Html - Sass - JavaScript
-    >Backend: Laravel(php)
-    >Design: Photoshop & Figma
+    > - Front End: Html - Sass - JavaScript
+    > - Backend: Laravel(php)
+    > - Design: Photoshop & Figma
+
+
 -  ⚡ Jan 2023: 
   **VENYSE GROUPE APPLICATION** : J'ai développé un site vitrine pour une société spécialiséé dans le trading. En commun accord avec le client nous avons initié les bases pour le developpement de l'application web du sytème de VENYSE GROUPE.
 ## 🏫 Education:
