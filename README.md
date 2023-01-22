@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Jan 2023: 
     **KELYQUICK** : KelyQuick c'est mon blog et portfolio. Sur ce blog, j'écris des articles sur le framework LARAVEL. Je continue de maintenir le site et créer des contenus. **Lien du projet** : https://kelyedoe.github.io/
 -  ⚡ Jan 2023: 
--  **VENYSE GROUPE APPLICATION** : J'ai développé un site vitrine pour une société spécialiséé dans le trading. En commun accord avec le client nous avons initié les bases pour le developpement de l'application web du sytème de VENYSE GROUPE.
+  **VENYSE GROUPE APPLICATION** : J'ai développé un site vitrine pour une société spécialiséé dans le trading. En commun accord avec le client nous avons initié les bases pour le developpement de l'application web du sytème de VENYSE GROUPE.
 ## 🏫 Education:
 - 2022 - 2023 : L3 Méthodes informatiques Appliquées à la Gestion d'Entreprise en FRANCE.
 - 2018 - 2021 : Bachelor Computer Apllication (Génie Logiciel) en INDE.
