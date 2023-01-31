@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 -->
 ## ⏫ Projets:
 - ⚡ Jan 2023: 
+    **KELYKART** : KELYKART c'est la version V 0.0.2 de ma plateforme de formation. Sur ce blog, j'écris des articles sur le framework LARAVEL et bien d'autres sujets. Je continue de maintenir le site et créer des contenus.
+    J'ai mis ce projet en open source pour que tout le monde puisse y contribuer.
+    >Le développement est toujours en cours. Techs utilisées: 
+    > - Front End: Html - Sass - JavaScript
+    > - Backend: Laravel(php)
+    > - Design: Photoshop & Figma [Lien de la maquette figma](https://www.figma.com/file/G7RvPVCARjMECtCAYsLlMT/Qk-v2?node-id=0%3A1&t=dvw3HBeq0yuvcmgT-1)
+
+- ⚡ Jan 2023: 
     **KELYQUICK** : KelyQuick c'est mon blog et portfolio. Sur ce blog, j'écris des articles sur le framework LARAVEL. Je continue de maintenir le site et créer des contenus. **Lien du projet** : https://kelyedoe.github.io/ .
     >Le développement est toujours en cours. Techs utilisées: 
     > - Front End: Html - Sass - JavaScript
