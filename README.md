@@ -30,7 +30,9 @@ Here are some ideas to get you started:
     > - Backend: Laravel(php)
     > - Design: Photoshop & Figma [Lien de la maquette figma](https://www.figma.com/file/G7RvPVCARjMECtCAYsLlMT/Qk-v2?node-id=0%3A1&t=dvw3HBeq0yuvcmgT-1)
 
-- ⚡ Jan 2023:  (Projet Fini)
+- ⚡ Jan 2023:  (Projet Fini V1.0.0)
+
+
     **KELYQUICK** : KelyQuick c'est mon blog et portfolio. Sur ce blog, j'écris des articles sur le framework LARAVEL. Je continue de maintenir le site et créer des contenus. **Lien du projet** : https://kelyedoe.github.io/ .
     >Le développement est toujours en cours. Techs utilisées: 
     > - Front End: Html - Sass - JavaScript
